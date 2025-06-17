@@ -1,0 +1,6 @@
+google-adk
+google-genai
+google-generativeai
+python-dotenv
+feedparser
+fpdf
